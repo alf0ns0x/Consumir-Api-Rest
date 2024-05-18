@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrador\\Desktop\\aaaaaa\\Consumir_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB54106E-8B36-439E-812D-FE74C707FAD7}|Consumir_API\\Consumir_API.csproj|c:\\users\\administrador\\desktop\\aaaaaa\\consumir_api\\consumir_api\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB54106E-8B36-439E-812D-FE74C707FAD7}|Consumir_API\\Consumir_API.csproj|solutionrelative:consumir_api\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB54106E-8B36-439E-812D-FE74C707FAD7}|Consumir_API\\Consumir_API.csproj|c:\\users\\administrador\\desktop\\aaaaaa\\consumir_api\\consumir_api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB54106E-8B36-439E-812D-FE74C707FAD7}|Consumir_API\\Consumir_API.csproj|solutionrelative:consumir_api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB54106E-8B36-439E-812D-FE74C707FAD7}|Consumir_API\\Consumir_API.csproj|c:\\users\\administrador\\desktop\\aaaaaa\\consumir_api\\consumir_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB54106E-8B36-439E-812D-FE74C707FAD7}|Consumir_API\\Consumir_API.csproj|solutionrelative:consumir_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB54106E-8B36-439E-812D-FE74C707FAD7}|Consumir_API\\Consumir_API.csproj|c:\\users\\administrador\\desktop\\aaaaaa\\consumir_api\\consumir_api\\servici\\iservicio_api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB54106E-8B36-439E-812D-FE74C707FAD7}|Consumir_API\\Consumir_API.csproj|solutionrelative:consumir_api\\servici\\iservicio_api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB54106E-8B36-439E-812D-FE74C707FAD7}|Consumir_API\\Consumir_API.csproj|c:\\users\\administrador\\desktop\\aaaaaa\\consumir_api\\consumir_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BB54106E-8B36-439E-812D-FE74C707FAD7}|Consumir_API\\Consumir_API.csproj|solutionrelative:consumir_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB54106E-8B36-439E-812D-FE74C707FAD7}|Consumir_API\\Consumir_API.csproj|c:\\users\\administrador\\desktop\\aaaaaa\\consumir_api\\consumir_api\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB54106E-8B36-439E-812D-FE74C707FAD7}|Consumir_API\\Consumir_API.csproj|solutionrelative:consumir_api\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB54106E-8B36-439E-812D-FE74C707FAD7}|Consumir_API\\Consumir_API.csproj|c:\\users\\administrador\\desktop\\aaaaaa\\consumir_api\\consumir_api\\views\\home\\producto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB54106E-8B36-439E-812D-FE74C707FAD7}|Consumir_API\\Consumir_API.csproj|solutionrelative:consumir_api\\views\\home\\producto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB54106E-8B36-439E-812D-FE74C707FAD7}|Consumir_API\\Consumir_API.csproj|c:\\users\\administrador\\desktop\\aaaaaa\\consumir_api\\consumir_api\\servici\\servicio_api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB54106E-8B36-439E-812D-FE74C707FAD7}|Consumir_API\\Consumir_API.csproj|solutionrelative:consumir_api\\servici\\servicio_api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB54106E-8B36-439E-812D-FE74C707FAD7}|Consumir_API\\Consumir_API.csproj|c:\\users\\administrador\\desktop\\aaaaaa\\consumir_api\\consumir_api\\models\\credencial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB54106E-8B36-439E-812D-FE74C707FAD7}|Consumir_API\\Consumir_API.csproj|solutionrelative:consumir_api\\models\\credencial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB54106E-8B36-439E-812D-FE74C707FAD7}|Consumir_API\\Consumir_API.csproj|c:\\users\\administrador\\desktop\\aaaaaa\\consumir_api\\consumir_api\\models\\resultadocredencial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB54106E-8B36-439E-812D-FE74C707FAD7}|Consumir_API\\Consumir_API.csproj|solutionrelative:consumir_api\\models\\resultadocredencial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\aaaaaa\\Consumir_API\\Consumir_API\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Consumir_API\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\aaaaaa\\Consumir_API\\Consumir_API\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Consumir_API\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T00:08:39.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Servicio_API.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\aaaaaa\\Consumir_API\\Consumir_API\\Servici\\Servicio_API.cs",
+              "RelativeDocumentMoniker": "Consumir_API\\Servici\\Servicio_API.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\aaaaaa\\Consumir_API\\Consumir_API\\Servici\\Servicio_API.cs",
+              "RelativeToolTip": "Consumir_API\\Servici\\Servicio_API.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T03:43:24.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Credencial.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\aaaaaa\\Consumir_API\\Consumir_API\\Models\\Credencial.cs",
+              "RelativeDocumentMoniker": "Consumir_API\\Models\\Credencial.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\aaaaaa\\Consumir_API\\Consumir_API\\Models\\Credencial.cs",
+              "RelativeToolTip": "Consumir_API\\Models\\Credencial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T18:50:30.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Producto.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\aaaaaa\\Consumir_API\\Consumir_API\\Views\\Home\\Producto.cshtml",
+              "RelativeDocumentMoniker": "Consumir_API\\Views\\Home\\Producto.cshtml",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\aaaaaa\\Consumir_API\\Consumir_API\\Views\\Home\\Producto.cshtml",
+              "RelativeToolTip": "Consumir_API\\Views\\Home\\Producto.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T02:20:55.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\aaaaaa\\Consumir_API\\Consumir_API\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Consumir_API\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\aaaaaa\\Consumir_API\\Consumir_API\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Consumir_API\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T02:02:08.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\aaaaaa\\Consumir_API\\Consumir_API\\Program.cs",
+              "RelativeDocumentMoniker": "Consumir_API\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\aaaaaa\\Consumir_API\\Consumir_API\\Program.cs",
+              "RelativeToolTip": "Consumir_API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T01:49:24.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IServicio_API.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\aaaaaa\\Consumir_API\\Consumir_API\\Servici\\IServicio_API.cs",
+              "RelativeDocumentMoniker": "Consumir_API\\Servici\\IServicio_API.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\aaaaaa\\Consumir_API\\Consumir_API\\Servici\\IServicio_API.cs",
+              "RelativeToolTip": "Consumir_API\\Servici\\IServicio_API.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T03:41:46.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\aaaaaa\\Consumir_API\\Consumir_API\\appsettings.json",
+              "RelativeDocumentMoniker": "Consumir_API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\aaaaaa\\Consumir_API\\Consumir_API\\appsettings.json",
+              "RelativeToolTip": "Consumir_API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-09T03:27:57.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\aaaaaa\\Consumir_API\\Consumir_API\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Consumir_API\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\aaaaaa\\Consumir_API\\Consumir_API\\Models\\Producto.cs",
+              "RelativeToolTip": "Consumir_API\\Models\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T03:25:37.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ResultadoCredencial.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\aaaaaa\\Consumir_API\\Consumir_API\\Models\\ResultadoCredencial.cs",
+              "RelativeDocumentMoniker": "Consumir_API\\Models\\ResultadoCredencial.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\aaaaaa\\Consumir_API\\Consumir_API\\Models\\ResultadoCredencial.cs",
+              "RelativeToolTip": "Consumir_API\\Models\\ResultadoCredencial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T19:54:14.541Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
